@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["adapter","Wrappers / adapters forming RNGs"],["mock","Mock random number generator"]],"struct":[["StdRng","The standard RNG. The PRNG algorithm in `StdRng` is chosen to be efficient on the current platform, to be statistically strong and unpredictable (meaning a cryptographically secure PRNG)."]]});
